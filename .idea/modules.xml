@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Snail_JNIDemo.iml" filepath="$PROJECT_DIR$/Snail_JNIDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjnitest/myjnitest.iml" filepath="$PROJECT_DIR$/myjnitest/myjnitest.iml" />
+    </modules>
+  </component>
+</project>
